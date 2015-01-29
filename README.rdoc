@@ -3,4 +3,4 @@ Learning Ruby on Rails
 
 Learning Rails with a tutorial from RailsApp project.
 
-http://railsapps.github.io/?_ga=1.42938149.1080331884.1422564230
+<a href="http://railsapps.github.io/?_ga=1.217909910.1080331884.1422564230">RailsApps</a>
