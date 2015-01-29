@@ -1,6 +1,5 @@
 Learning Ruby on Rails
 ==
 
-Learning Rails with a tutorial from RailsApp project.
+Learning Rails with a tutorial from RailsApps project.
 
-<a href="http://railsapps.github.io/?_ga=1.217909910.1080331884.1422564230"/a>
